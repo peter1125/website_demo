@@ -1,10 +1,10 @@
----
+<!-- ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 50
@@ -51,3 +51,4 @@ item:
 design:
   columns: '2'
 ---
+ -->
